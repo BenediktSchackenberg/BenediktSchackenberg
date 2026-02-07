@@ -1,58 +1,33 @@
-# Hi, I'm Benedikt 👋
+## Hey! 👋
 
-**Software Engineer** from Germany, building tools that bridge AI agents with real systems.
+Ich bin Benedikt — Hobby-Admin, Hobby-Programmierer, und Vollzeit-Nerd aus Deutschland.
 
-## 🚀 Current Project: OpenClaw Windows Agent
+SQL Server ist meine Religion. KI ist mein neues Spielzeug. Let's roll. 🎲
 
-A native Windows application that connects your PC to an [OpenClaw](https://openclaw.ai) Gateway, enabling AI agents to interact with your Windows machine.
+### 🎯 Was ich so mache
 
-[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
-[![Status](https://img.shields.io/badge/Status-Alpha-orange?style=flat-square)](https://github.com/BenediktSchackenberg/openclaw-windows-agent)
+Ich bau Zeug das funktioniert (meistens). Wenn ich nicht gerade Server konfiguriere die keiner braucht, schreib ich Code der Probleme löst die noch keiner hatte.
 
-### What It Does
+**Aktuelle Obsession:** AI Agents mit echten Systemen verbinden — weil warum sollte man nur mit dem Bot chatten wenn er auch den PC steuern kann?
+
+### 🛠️ Tech Stack
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                     YOUR NETWORK                                 │
-│                                                                  │
-│  ┌──────────────┐         WebSocket          ┌───────────────┐  │
-│  │   Linux PC   │ ◄──────────────────────►   │  Windows PC   │  │
-│  │              │                            │               │  │
-│  │  OpenClaw    │    "Run notepad.exe"       │  Agent GUI    │  │
-│  │  Gateway     │ ─────────────────────────► │      +        │  │
-│  │              │                            │  Background   │  │
-│  │  (AI Agent)  │ ◄───────────────────────── │  Service      │  │
-│  │              │     { "pid": 1234 }        │               │  │
-│  └──────────────┘                            └───────────────┘  │
-└─────────────────────────────────────────────────────────────────┘
+C# / .NET 8 / WPF      → Wenn's auf Windows laufen soll
+Python / FastAPI       → Wenn's schnell gehen muss  
+PostgreSQL / SQL Server → Wo die Daten wohnen
+PowerShell             → Für die dreckige Arbeit
 ```
 
-### ✨ Features
+### 🚀 Projekte
 
-- 🔗 **Remote Command Execution** — Run PowerShell/CMD from AI agents
-- 📊 **Hardware Inventory** — CPU, RAM, GPU, disks, mainboard info
-- 🛡️ **Security Scanning** — Firewall, Defender, TPM, SecureBoot status
-- 🌐 **Network Monitoring** — Open ports, connections, interfaces
-- 🖥️ **Software Inventory** — Installed apps, services, browser extensions
-- ⚙️ **Windows Service** — Runs 24/7, survives reboots
-- 🎨 **Dark Theme UI** — Slick WPF interface with live logs
+**[openclaw-windows-agent](https://github.com/BenediktSchackenberg/openclaw-windows-agent)** — Verbindet deinen Windows PC mit einem OpenClaw Gateway. Damit kann dein AI Agent deinen Rechner fernsteuern. Klingt gefährlich? Ist es auch. 😈
 
-### 📦 Check It Out
+### 📫 Findest mich hier
 
-**→ [BenediktSchackenberg/openclaw-windows-agent](https://github.com/BenediktSchackenberg/openclaw-windows-agent)**
+- 🌐 [schackenberg.com](https://schackenberg.com)
+- 💬 Discord: `victorvox0555_37244`
 
 ---
 
-## 🔧 Tech Stack
-
-- **Languages:** C#, PowerShell, Python, TypeScript
-- **Frameworks:** .NET 8, WPF, FastAPI
-- **Databases:** PostgreSQL, TimescaleDB, SQL Server
-- **AI/Agents:** OpenClaw, Claude, GPT-4o
-- **Tools:** Visual Studio, Git, Docker
-
-## 📫 Contact
-
-- 🌐 [schackenberg.com](https://schackenberg.com)
-- 💼 [GitHub](https://github.com/BenediktSchackenberg)
+*"Konfigurieren was das Zeug hält"* — Benedikt, wahrscheinlich um 3 Uhr nachts
