@@ -1,33 +1,33 @@
 ## Hey! 👋
 
-Ich bin Benedikt — Hobby-Admin, Hobby-Programmierer, und Vollzeit-Nerd aus Deutschland.
+I'm Benedikt — hobby admin, hobby programmer, and full-time nerd from Germany.
 
-SQL Server ist meine Religion. KI ist mein neues Spielzeug. Let's roll. 🎲
+SQL Server is my religion. AI is my new toy. Let's roll. 🎲
 
-### 🎯 Was ich so mache
+### 🎯 What I Do
 
-Ich bau Zeug das funktioniert (meistens). Wenn ich nicht gerade Server konfiguriere die keiner braucht, schreib ich Code der Probleme löst die noch keiner hatte.
+I build stuff that works (mostly). When I'm not configuring servers nobody asked for, I write code that solves problems nobody had yet.
 
-**Aktuelle Obsession:** AI Agents mit echten Systemen verbinden — weil warum sollte man nur mit dem Bot chatten wenn er auch den PC steuern kann?
+**Current obsession:** Connecting AI agents with real systems — because why just chat with a bot when it can also control your PC?
 
 ### 🛠️ Tech Stack
 
 ```
-C# / .NET 8 / WPF      → Wenn's auf Windows laufen soll
-Python / FastAPI       → Wenn's schnell gehen muss  
-PostgreSQL / SQL Server → Wo die Daten wohnen
-PowerShell             → Für die dreckige Arbeit
+C# / .NET 8 / WPF      → When it needs to run on Windows
+Python / FastAPI       → When it needs to be fast  
+PostgreSQL / SQL Server → Where the data lives
+PowerShell             → For the dirty work
 ```
 
-### 🚀 Projekte
+### 🚀 Projects
 
-**[openclaw-windows-agent](https://github.com/BenediktSchackenberg/openclaw-windows-agent)** — Verbindet deinen Windows PC mit einem OpenClaw Gateway. Damit kann dein AI Agent deinen Rechner fernsteuern. Klingt gefährlich? Ist es auch. 😈
+**[openclaw-windows-agent](https://github.com/BenediktSchackenberg/openclaw-windows-agent)** — Connects your Windows PC to an OpenClaw Gateway. Lets your AI agent remote control your machine. Sounds dangerous? It is. 😈
 
-### 📫 Findest mich hier
+### 📫 Find me here
 
 - 🌐 [schackenberg.com](https://schackenberg.com)
 - 💬 Discord: `victorvox0555_37244`
 
 ---
 
-*"Konfigurieren was das Zeug hält"* — Benedikt, wahrscheinlich um 3 Uhr nachts
+*"Configuring all the things"* — Benedikt, probably at 3 AM
