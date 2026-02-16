@@ -8,20 +8,21 @@ SQL Server is my religion. AI is my new toy. Let's roll. 🎲
 
 I build stuff that works (mostly). When I'm not configuring servers nobody asked for, I write code that solves problems nobody had yet.
 
-**Current obsession:** Connecting AI agents with real systems — because why just chat with a bot when it can also control your PC?
+**Current obsession:** Building open-source tools that make fleet management actually enjoyable.
 
 ### 🛠️ Tech Stack
 
 ```
 C# / .NET 8 / WPF      → When it needs to run on Windows
 Python / FastAPI       → When it needs to be fast  
+TypeScript / Next.js   → When it needs to look good
 PostgreSQL / SQL Server → Where the data lives
 PowerShell             → For the dirty work
 ```
 
-### 🚀 Projects
+### 🚀 Featured Project
 
-**[openclaw-windows-agent](https://github.com/BenediktSchackenberg/openclaw-windows-agent)** — Connects your Windows PC to an OpenClaw Gateway. Lets your AI agent remote control your machine. Sounds dangerous? It is. 😈
+**[🐙 Octofleet](https://github.com/BenediktSchackenberg/octofleet)** — Open-source endpoint management for Windows & Linux. Hardware inventory, vulnerability scanning, remote terminal, screen mirroring, and more. Self-hosted, no BS.
 
 ### 📫 Find me here
 
